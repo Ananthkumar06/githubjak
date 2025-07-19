@@ -1,3 +1,4 @@
 creater text.txt file
 iam ananth
 how are you
+are you ok
